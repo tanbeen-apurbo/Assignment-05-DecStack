@@ -25,7 +25,7 @@ const Nav = () => {
                 <ul className="flex gap-4 items-center">
                     <li className="text-[#DB2777]">Home</li>
                     <li>Technologies</li>
-                    <li>Prejects</li>
+                    <li>Projects</li>
                     <li>About</li>
                     <li>Contact</li>
                 </ul>
